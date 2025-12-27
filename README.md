@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 
-🧑‍💻 I'm Omid Hashemzadeh, a backend developer based in the UK with 5+ years of experience in designing and maintaining  backend systems.
+🧑‍💻 I'm Omid Hashemzadeh, a software developer based in the UK with 5+ years of experience in designing and maintaining backend systems.
 
 ⚙️ I specialize in Python, Django, and REST APIs, with a focus on clean architecture, automated testing, and CI/CD practices. I'm always experimenting with tools that improve code quality and team efficiency.
 
